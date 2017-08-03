@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Woof Love</string>
+    <string name="signin">Entrar</string>
+    <string name="signup">Criar nova conta</string>
+    <string name="login_description">Utilize o Woof Love e encontre um(a) companheiro(a) para seu melhor amigo</string>
+    <string name="forgot_password">Esqueceu a senha</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="prompt_petname">Nome do pet</string>
+    <string name="prompt_city">Cidade</string>
+    <string name="select_breed_label">Selecione a raça do seu cachorro:</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Sair</string>
+
+    <string name="feed_navigation">Feed</string>
+    <string name="match_navigation">Meus interesses</string>
+    <string name="age">Idade</string>
+    <string name="female">Fêmea</string>
+    <string name="male">Macho</string>
+    <string name="message">Mensagem adicional</string>
+    <string name="blank_field_message">Você precisa informar todos os campos</string>
+    <string name="interest_label">Marcar como interesse</string>
+    <string name="my_interest_label">Lista de pretendentes que mostraram interesse em você:</string>
+    <string name="reset">Redefinir senha</string>
+    <string name="reset_password_dialog_title">Redefinição de senha</string>
+    <string name="email_is_requeried_reset_password">Você precisa informar o email</string>
+</resources>
